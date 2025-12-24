@@ -1,0 +1,7 @@
+mkdir data src notebooks results
+touch src/download_data.py
+touch src/feature_engineering.py
+touch src/train_regression.py
+touch src/backtest.py
+touch src/metrics.py
+touch requirements.txt
